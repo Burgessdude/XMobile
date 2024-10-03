@@ -337,6 +337,10 @@ header span {
   font-weight: 300;
   color: #1d295f;
 }
+header img {
+  padding-right: 3rem;
+  padding-left: 8px;
+}
 
 /* --------------------------- NAVIGATION STUFF GOES HERE --------------------------- */
 #primaryNav button::before {
@@ -389,7 +393,7 @@ header span {
 
 /* --------------------------- MAIN --------------------------- */
 main h1 {
-  padding: 1rem 10px 0.5rem 10px;
+  padding: 1rem 10px 0.5rem 18px;
   font-size: 1.5rem;
   color: #7c1d47;
   font-weight: 300;
